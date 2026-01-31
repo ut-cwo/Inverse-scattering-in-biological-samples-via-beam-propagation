@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kim"
+  given-names: "Jeongsoo"
+  orcid: "https://orcid.org/0000-0003-0965-0424"
+- family-names: "Chowdhury"
+  given-names: "Shwetadwip"
+  orcid: "https://orcid.org/0000-0002-6142-0231"
+
+type: software
+
+title: "Inverse-scattering-in-biological-samples-via-beam-propagation"
+version: "0.1.0"
+date-released: "2026-01-31"
+
+url: "https://github.com/ut-cwo/Inverse-scattering-in-biological-samples-via-beam-propagation"
+license: "MIT"
