@@ -11,8 +11,6 @@ authors:
 type: software
 
 title: "Inverse-scattering-in-biological-samples-via-beam-propagation"
-version: "0.1.0"
 date-released: "2026-01-31"
-
 url: "https://github.com/ut-cwo/Inverse-scattering-in-biological-samples-via-beam-propagation"
 license: "MIT"
