@@ -24,26 +24,19 @@ The experimental dataset for running the code can be downloaded from the link be
 
 4. Since the code contains comments explaining each section, it is recommended to execute the code step by step and read through the related comments when running the code for the first time.
 
-<p align="center">
-<img src="ImageFolder/Celegans.jpg" width="700"/>
-</p>
-
-<p align="center">
-<strong> Figure 1: </strong> C.elegans inverse-scattering results 
-</p>
-
-<p align="center">
-<img src="ImageFolder/Organoids.jpg" width="700"/>
-</p>
-
-<p align="center">
-<strong> Figure 2: </strong> Intestinal organoids inverse-scattering results 
-</p>
-
-<p align="center">
-<img src="ImageFolder/Zebrafish.jpg" width="700"/>
-</p>
-
-<p align="center">
-<strong> Figure 3: </strong> Zebrafish embryo inverse-scattering results 
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="ImageFolder/Celegans.jpg" width="500"/><br/>
+      <strong>Figure 1:</strong> C. elegans inverse-scattering results
+    </td>
+    <td align="center">
+      <img src="ImageFolder/Organoids.jpg" width="500"/><br/>
+      <strong>Figure 2:</strong> Intestinal organoids inverse-scattering results
+    </td>
+    <td align="center">
+      <img src="ImageFolder/Zebrafish.jpg" width="500"/><br/>
+      <strong>Figure 3:</strong> Zebrafish embryo inverse-scattering results
+    </td>
+  </tr>
+</table>
