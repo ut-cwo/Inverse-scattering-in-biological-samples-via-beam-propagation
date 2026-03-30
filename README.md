@@ -23,3 +23,27 @@ The experimental dataset for running the code can be downloaded from the link be
 3. The scripts Recon_main.m is used to reconstruct the experimental datasets. Place that in the same directory as the Recon_corefunction folder, then run the scripts in MATLAB to reproduce the reconstruction results.
 
 4. Since the code contains comments explaining each section, it is recommended to execute the code step by step and read through the related comments when running the code for the first time.
+
+<p align="center">
+<img src="ImageFolder/Celegans.jpg" width="700"/>
+</p>
+
+<p align="center">
+<strong> Figure 1: </strong> C.elegans inverse-scattering results 
+</p>
+
+<p align="center">
+<img src="ImageFolder/Organoids.jpg" width="700"/>
+</p>
+
+<p align="center">
+<strong> Figure 2: </strong> Intestinal organoids inverse-scattering results 
+</p>
+
+<p align="center">
+<img src="ImageFolder/Zebrafish.jpg" width="700"/>
+</p>
+
+<p align="center">
+<strong> Figure 2: </strong> Zebrafish embryo inverse-scattering results 
+</p>
