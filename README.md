@@ -45,5 +45,5 @@ The experimental dataset for running the code can be downloaded from the link be
 </p>
 
 <p align="center">
-<strong> Figure 2: </strong> Zebrafish embryo inverse-scattering results 
+<strong> Figure 3: </strong> Zebrafish embryo inverse-scattering results 
 </p>
