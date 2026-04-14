@@ -1,4 +1,4 @@
-# Inverse-scattering-in-biological-samples-via-beam-propagation
+# Inverse scattering in biological samples via beam propagation
 This repository contains the MATLAB reconstruction code for MSBP-based inverse-scattering to recover the sample's three-dimensional refractive index, as used in the following publication:
 
 **Kim, Jeongsoo, et al. "Inverse-scattering in biological samples via beam-propagation." bioRxiv (2025).**
