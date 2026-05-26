@@ -16,7 +16,10 @@
 % Thank you to Michael Chen and David Ren, for preliminary 
 % versions of this code
 %
-% reference:
+% references:
+%
+% J. Kim, et al. "Inverse-scattering in biological samples via beam-propagation." bioRxiv (2025).
+%
 % S. Chowdhury, M. Chen, R. Eckert, D. Ren, F. Wu, N. Repina, and L. 
 % Waller, "High-resolution 3D refractive index microscopy of multiple-
 % scattering samples from intensity images," Optica 6, 1211-1219 (2019) 
