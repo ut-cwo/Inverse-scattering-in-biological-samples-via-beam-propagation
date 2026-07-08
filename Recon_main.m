@@ -42,19 +42,25 @@ init_unlocbox();
 
 sample_type = '40um_phantom';     
 
+% Please select a FOV for samples that support multiple FOVs (celegans, zebrafish_embryo, organoid)
+% For example : FOV_select = 1 will load '..._data_FOV01.mat'
+
+FOV_select = 1;
+
+
 switch sample_type
 
     case '40um_phantom'
         load('40um_phantom_data.mat');
 
     case 'celegans'
-        load('celegans_data.mat');
+        load(sprintf('celegans_data_FOV%02d.mat', FOV_select));
 
     case 'zebrafish_embryo'
-        load('zebrafish_embryo_data.mat');
+        load(sprintf('zebrafish_embryo_data_FOV%02d.mat', FOV_select));
 
     case 'organoid'
-        load('organoid_data.mat');
+        load(sprintf('organoid_data_FOV%02d.mat', FOV_select));
 
 end
 
